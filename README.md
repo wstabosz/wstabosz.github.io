@@ -31,19 +31,19 @@ More details coming, but some elevator headlines:
 
 # Nice things people have said about me 🦖
 
->What are you doing in this class if you know how to develop software like that?
+`What are you doing in this class if you know how to develop software like that?`
 
 *Classmate* in college object oriented programming class after he learned that I developed a Windows app that he used.
 
-> Now there is a man who solves problems.
+`Now there is a man who solves problems.`
 
 *Brother-in-law Scott*  After I improvised a trampoline spring removal tool in less than a minute based on a verbal description of the missing tool. 
 
->I've never seen someone who just goes out and solves problems like that.
+`I've never seen someone who just goes out and solves problems like that.`
 
 *Former manager* After I set up a box fan in our office to vent some noxious fumes coming from a renovation project in the office next door.
 
-> You're just like McGuyver
+`You're just like McGuyver`
 
 *Brother-in-law Micheal:*  I forget the context, but it was probably after I did something amazing.
 
